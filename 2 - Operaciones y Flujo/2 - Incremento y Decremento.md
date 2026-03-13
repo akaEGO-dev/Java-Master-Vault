@@ -2,7 +2,7 @@
 ---
 
 > **CONCEPTO:** Operadores unarios que sirven para sumar o restar exactamente **1** a una variable. Su posición (antes o después de la variable) determina el orden de ejecución.
-
+ 
 ### 📝 EXPLICACIÓN
 
 Aunque parezcan simples, estos operadores son una de las mayores fuentes de errores. La clave no es la matemática, sino la **prioridad**:

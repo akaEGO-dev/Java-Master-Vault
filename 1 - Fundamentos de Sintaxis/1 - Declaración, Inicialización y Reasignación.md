@@ -2,7 +2,7 @@
 ---
 
 
-> **CONCEPTO:** Reservar un espacio en la memoria (caja) y darle un valor.
+> **CONCEPTO:** Reservar un espacio en la memoria (caja) y darle un valor. 
 
 ### 📝 EXPLICACIÓN
 

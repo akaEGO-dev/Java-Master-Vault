@@ -2,7 +2,7 @@
 ---
 
 > **CONCEPTO:** El Casting es el proceso de convertir una variable de un tipo de dato a otro. Es necesario porque Java, por seguridad, no permite meter "datos grandes" en "cajas pequeñas" de forma automática.
-
+ 
 ### 📝 EXPLICACIÓN
 
 Imagina que intentas meter el contenido de una garrafa de 5 litros en una botella de 2 litros. Java te detendrá para evitar que derrames líquido (pierdas datos).

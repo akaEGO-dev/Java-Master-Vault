@@ -2,7 +2,7 @@
 ---
 
 > **CONCEPTO:** La consola es la interfaz básica. Para que la información sea útil, debemos aprender a **concatenar** (unir) variables con texto explicativo.
-
+ 
 ### 📝 EXPLICACIÓN
 
 Soltar un número solo en la pantalla no sirve de nada. El usuario necesita contexto. Java utiliza el operador `+` no solo para sumar números, sino para **pegar** piezas de información como si fueran imanes.

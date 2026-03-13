@@ -2,7 +2,7 @@
 ---
 
 > **CONCEPTO:** Java es un lenguaje de **tipado estático y fuerte**. Cada variable tiene un tipo definido que determina cuánta memoria ocupa y qué operaciones puede realizar.
-
+ 
 ### 📝 EXPLICACIÓN
 
 No todos los datos pesan lo mismo ni sirven para lo mismo. Java separa los datos en dos grandes grupos: **Primitivos** (simples y rápidos) y **Referencia** (complejos y con métodos).

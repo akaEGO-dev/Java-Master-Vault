@@ -1,5 +1,5 @@
 ### 📝 Resumen
-
+ 
 Programa inicial para practicar la entrada de datos con `Scanner` y operaciones aritméticas simples. Calcula sueldo bruto, impuestos fijos (15%) y sueldo neto.
 
 ---

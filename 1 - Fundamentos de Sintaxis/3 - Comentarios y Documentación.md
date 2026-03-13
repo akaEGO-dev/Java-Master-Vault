@@ -2,7 +2,7 @@
 ---
 
 > **CONCEPTO:** Anotaciones en el código que el compilador de Java ignora por completo. Su función es explicar el "porqué" de las cosas a otros humanos (o a ti mismo en el futuro).
-
+ 
 ### 📝 EXPLICACIÓN
 
 El código dice **cómo** se hace algo, pero los comentarios dicen **por qué** se hizo así. En Java existen tres tipos de comentarios según su alcance y función:

@@ -2,7 +2,7 @@
 ---
 
 > **CONCEPTO:** Los operadores de incremento (`++`) y decremento (`--`) solo pueden actuar sobre **variables** (contenedores de memoria), nunca sobre **literales** (valores fijos).
-
+ 
 ### 📝 EXPLICACIÓN
 
 En Java, un número fijo como `5` es un valor inmutable; no puedes "hacer que el 5 valga 6". Lo que sí puedes hacer es cambiar lo que hay dentro de una variable.

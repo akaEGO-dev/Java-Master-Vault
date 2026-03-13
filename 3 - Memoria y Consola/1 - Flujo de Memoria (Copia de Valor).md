@@ -2,7 +2,7 @@
 ---
 
 > **CONCEPTO:** Los tipos primitivos en Java se almacenan en el **Stack** (pila). Cuando asignas una variable a otra, Java duplica el valor físico, creando dos entidades totalmente desconectadas.
-
+ 
 ### 📝 EXPLICACIÓN
 
 Imagina que cada variable es un papel donde escribes un número. Si haces `int b = a;`, estás cogiendo un papel nuevo y copiando el número que ves en el primero. Si luego borras y cambias el número del primer papel, el segundo sigue teniendo el número viejo.

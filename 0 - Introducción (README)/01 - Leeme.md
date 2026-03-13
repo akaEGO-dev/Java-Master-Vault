@@ -1,7 +1,7 @@
 # 📖 Guía de Navegación - Java Master
 
 Si estás leyendo esto, estás ante un sistema de notas estructurado para entender Java de forma lógica y visual. Aquí tienes un mapa de lo que encontrarás en cada carpeta: (Se irán añadiendo más)
-
+ 
 ---
 
 ### 📂 1 - Fundamentos de Sintaxis
